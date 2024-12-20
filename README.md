@@ -4,3 +4,8 @@
 - Column Operations
 - Table Formation
 - Arithmetic Operations
+## Day : 2
+- Percentage
+- Chart
+- Graph
+- Conditional Formatting
