@@ -9,3 +9,6 @@
 - Chart
 - Graph
 - Conditional Formatting
+## Day : 3
+- Sheet Formation
+- Formatting
