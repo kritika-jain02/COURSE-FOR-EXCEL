@@ -12,3 +12,5 @@
 ## Day : 3
 - Sheet Formation
 - Formatting
+## Day : 4
+- Assignment of Table and Conditional Formatting 
